@@ -3,7 +3,8 @@ MarketFlash Project:
 Enhancing Business Operations with Data Insights
 
 Introduction
-We will be presenting to you the project we've been working on for MarketFlash, a growing marketing company. Our goal was to design and build a powerful database and an insightful dashboard to help MarketFlash manage their data more effectively and make informed business decisions.
+We will be presenting to you the project we've been working on for MarketFlash, a growing marketing company. 
+Our goal was to design and build a powerful database and an insightful dashboard to help MarketFlash manage their data more effectively and make informed business decisions.
 
 Project Objectives
 
@@ -12,10 +13,12 @@ Transition Market Flash's data from spreadsheets to a more scalable and structur
 Design a database that captures all necessary information about campaigns, clients, channels,and employees.
 Create a user-friendly dashboard that provides clear visibility into business performance and key metrics.
 MarketFlash initially faced several challenges:
+
 Managing a large volume of data in spreadsheets, which was becoming inefficient and error-prone.
 Lack of centralized data storage, making it difficult to retrieve and analyze information.
 The need for a comprehensive dashboard to visualize key business metrics and trends.
 To address these challenges, we followed a structured methodology:
+
 Conducted interviews with Markus to understand the business requirements.
 Analyzed the existing data to design a functional ER diagram for the database.
 Cleaned the data to ensure accuracy and consistency.
@@ -27,7 +30,8 @@ This is the ER diagram we designed for MarketFlash’s database. It includes fou
 
 Database(At the end of this presantation)
 We Normalized our database and removed redundancy.
-We identified several data quality issues. These include: Duplicate records, missing values, Inconsistent data formats.
+We identified several data quality issues.
+These include: Duplicate records, missing values, Inconsistent data formats.
 After cleaning the data, we achieved a significant reduction in duplicates and improved the completeness of our data. This has enhanced the reliability of our market analyses and decision-making processes.
 
 Dashboard overview (Refer to Tableau Link)
